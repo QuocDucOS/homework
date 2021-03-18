@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstDemo</string>
+    <string name="Register_under"><u>Register</u></string>
+    <string name="Login">Login</string>
+    <string name="Password">Password</string>
+    <string name="Username">Username</string>
+    <string name="Register">Register</string>
+    <string name="ConfirmPassword">Confirm password</string>
+    <string name="txt3">Hãy nhắm mắt và chờ đón lá bài định mệnh</string>
+    <string name="txt2">Bạn sắp thấy bất ngờ</string>
+</resources>
